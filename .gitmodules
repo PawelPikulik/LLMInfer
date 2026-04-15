@@ -1,0 +1,9 @@
+[submodule "KimiAzureInfer"]
+	path = KimiAzureInfer
+	url = https://github.com/PawelPikulik/KimiAzureInfer.git
+[submodule "MixtralInfer"]
+	path = MixtralInfer
+	url = https://github.com/PawelPikulik/MixtralInfer.git
+[submodule "TinyLlamaInfer"]
+	path = TinyLlamaInfer
+	url = https://github.com/PawelPikulik/TinyLlamaInfer.git
